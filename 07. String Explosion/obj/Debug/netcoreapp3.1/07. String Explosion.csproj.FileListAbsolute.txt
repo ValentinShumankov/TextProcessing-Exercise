@@ -1,0 +1,12 @@
+C:\Users\vshum\source\repos\C# Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.exe
+C:\Users\vshum\source\repos\C# Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.deps.json
+C:\Users\vshum\source\repos\C# Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.runtimeconfig.json
+C:\Users\vshum\source\repos\C# Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.runtimeconfig.dev.json
+C:\Users\vshum\source\repos\C# Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.dll
+C:\Users\vshum\source\repos\C# Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.pdb
+C:\Users\vshum\source\repos\C# Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.AssemblyInfoInputs.cache
+C:\Users\vshum\source\repos\C# Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.AssemblyInfo.cs
+C:\Users\vshum\source\repos\C# Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.csproj.CoreCompileInputs.cache
+C:\Users\vshum\source\repos\C# Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.dll
+C:\Users\vshum\source\repos\C# Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.pdb
+C:\Users\vshum\source\repos\C# Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.genruntimeconfig.cache
